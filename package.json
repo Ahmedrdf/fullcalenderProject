@@ -19,9 +19,11 @@
     "@angular/platform-browser": "~9.1.0",
     "@angular/platform-browser-dynamic": "~9.1.0",
     "@angular/router": "~9.1.0",
+    "@syncfusion/ej2-angular-schedule": "^18.2.46",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
-    "zone.js": "~0.10.2"
+    "zone.js": "~0.10.2",
+    "@syncfusion/ej2-material-theme": "~18.2.44"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.901.0",
